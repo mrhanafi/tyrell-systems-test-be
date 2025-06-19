@@ -14,3 +14,7 @@ This app hosts an API route for front-end and livewire blade page. Both of these
 1. PHP 8.4
 2. Laravel 12
 3. Livewire 3
+
+### Link
+
+https://tyrellbe.hanafirahman.com
